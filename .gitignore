@@ -1,6 +1,9 @@
 # binaries
 *.paf.exe
 
+# Binaries
+GitPortable\App\Git
+
 # Windows junk
 Thumbs.db
 ehthumbs.db
