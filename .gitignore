@@ -1,0 +1,7 @@
+# binaries
+*.paf.exe
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
