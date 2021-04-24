@@ -3,9 +3,11 @@
 
 # Tools binaries
 GitPortable/App/Git
+RPortable/App/R
 
 # Tools data
 GitPortable/Data
+RPortable/Data
 
 # Windows junk
 Thumbs.db
